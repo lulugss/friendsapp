@@ -1,0 +1,20 @@
+{
+  "ids": {
+    "Address": 6,
+    "Friend": 4
+  },
+  "models": {
+    "Address": {
+      "1": "{\"city\":\"venlo\",\"postcode\":\"5912bs\",\"street\":\"pastor op heijstraat\",\"house_number\":\"34\",\"friendId\":0,\"id\":1}",
+      "2": "{\"city\":\"venlo\",\"postcode\":\"5912bs\",\"street\":\"pastor op heijstraat\",\"house_number\":\"34\",\"friendId\":0,\"id\":2}",
+      "3": "{\"city\":\"venlo\",\"postcode\":\"5911bb\",\"street\":\"mgr Boermansstraat \",\"house_number\":\"34\",\"friendId\":1,\"id\":3}",
+      "4": "{\"city\":\"Venlo\",\"postcode\":\"5911BB\",\"street\":\"Mgr Boermansstraat\",\"house_number\":\"41\",\"friendId\":1,\"id\":4}",
+      "5": "{\"city\":\"Buenos Aires\",\"postcode\":\"5505\",\"street\":\"Av Belgrano\",\"house_number\":\"2765\",\"friendId\":1,\"id\":5}"
+    },
+    "Friend": {
+      "1": "{\"firstname\":\"Lulu\",\"lastname\":\"g\",\"id\":1}",
+      "2": "{\"firstname\":\"Lulu\",\"lastname\":\"g\",\"id\":2}",
+      "3": "{\"firstname\":\"rawi\",\"lastname\":\"e\",\"id\":3}"
+    }
+  }
+}
